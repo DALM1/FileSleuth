@@ -26,4 +26,4 @@ FileSleuth is a command-line tool written in Rust that allows users to search th
 
    cargo build --release
 
-   cargo run```
+   cargo run
